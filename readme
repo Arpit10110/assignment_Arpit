@@ -1,0 +1,38 @@
+# User Grid App
+
+This is a simple web application that fetches user data from an API and displays it in a grid layout. The app includes a navbar with a brand name and a "Get Users" button to trigger the API call. While fetching data, a loader is displayed to provide visual feedback.
+
+## Features
+
+- Responsive user grid layout
+- Navbar with brand name and "Get Users" button
+- Fetches user data from API: [https://reqres.in/api/users?page=1](https://reqres.in/api/users?page=1)
+- Displays loader while fetching data
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open `index.html` in a web browser.
+3. Click the "Get Users" button to fetch and display user data.
+4. Enjoy the responsive user grid layout!
+
+## Folder Structure
+
+- `index.html`: Main HTML file.
+- `styles.css`: CSS file for styling.
+- `script.js`: JavaScript file for fetching data and interaction.
+
+## Credits
+
+- Loader animation: [W3Schools](https://www.w3schools.com/howto/howto_css_loader.asp)
+- API used: [ReqRes](https://reqres.in/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
